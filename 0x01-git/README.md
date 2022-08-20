@@ -1,2 +1,2 @@
 my second readme
-my furst edit
+my first edit
